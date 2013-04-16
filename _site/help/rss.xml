@@ -5,8 +5,8 @@
         <description>Jekyll Bootstrap - Name Lastname</description>
         <link>http://username.github.com</link>
         <link>http://username.github.com</link>
-        <lastBuildDate>2013-04-16T16:44:49+08:00</lastBuildDate>
-        <pubDate>2013-04-16T16:44:49+08:00</pubDate>
+        <lastBuildDate>2013-04-16T16:27:52+08:00</lastBuildDate>
+        <pubDate>2013-04-16T16:27:52+08:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -23,6 +23,8 @@
 &lt;h3 id='examples'&gt;Examples&lt;/h3&gt;
 
 &lt;p&gt;This website is created with Jekyll. &lt;a href='https://github.com/mojombo/jekyll/wiki/Sites'&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;test&lt;/p&gt;
 
 &lt;h3 id='what_does_jekyll_do'&gt;What does Jekyll Do?&lt;/h3&gt;
 
