@@ -1,11 +1,11 @@
 
-http://username.github.com/archive.html
-http://username.github.com/atom.xml
-http://username.github.com/categories.html
-http://username.github.com/index.html
-http://username.github.com/pages.html
-http://username.github.com/rss.xml
-http://username.github.com/sitemap.txt
-http://username.github.com/tags.html
+http://qmcr.github.com/archive.html
+http://qmcr.github.com/atom.xml
+http://qmcr.github.com/categories.html
+http://qmcr.github.com/index.html
+http://qmcr.github.com/pages.html
+http://qmcr.github.com/rss.xml
+http://qmcr.github.com/sitemap.txt
+http://qmcr.github.com/tags.html
 
-http://username.github.com/lessons/2011/12/29/jekyll-introduction
+http://qmcr.github.com/lessons/2011/12/29/jekyll-introduction
