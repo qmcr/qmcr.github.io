@@ -1,11 +1,14 @@
 
-http://qmcr.github.com/archive.html
-http://qmcr.github.com/atom.xml
-http://qmcr.github.com/categories.html
-http://qmcr.github.com/index.html
-http://qmcr.github.com/pages.html
-http://qmcr.github.com/rss.xml
-http://qmcr.github.com/sitemap.txt
-http://qmcr.github.com/tags.html
+http://www.qmcr.me/about.html
+http://www.qmcr.me/archive.html
+http://www.qmcr.me/atom.xml
+http://www.qmcr.me/categories.html
+http://www.qmcr.me/index.html
+http://www.qmcr.me/pages.html
+http://www.qmcr.me/partner.html
+http://www.qmcr.me/product.html
+http://www.qmcr.me/rss.xml
+http://www.qmcr.me/sitemap.txt
+http://www.qmcr.me/tags.html
 
-http://qmcr.github.com/lessons/2011/12/29/jekyll-introduction
+http://www.qmcr.me/macos/2013/04/16/install-jekyll-on-mac10.8

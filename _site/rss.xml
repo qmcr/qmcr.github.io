@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>程序员爸爸的博客</title>
-        <description>程序员爸爸的博客 - Shen Jian</description>
-        <link>http://qmcr.github.com</link>
-        <link>http://qmcr.github.com</link>
-        <lastBuildDate>2013-04-17T09:54:58+08:00</lastBuildDate>
-        <pubDate>2013-04-17T09:54:58+08:00</pubDate>
+        <title>全民超人</title>
+        <description>全民超人 - Shen Jian</description>
+        <link>http://www.qmcr.me</link>
+        <link>http://www.qmcr.me</link>
+        <lastBuildDate>2013-04-20T15:01:04+08:00</lastBuildDate>
+        <pubDate>2013-04-20T15:01:04+08:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>Jekyll Introduction</title>
+                <title>Install Jekyll On Mac10.8</title>
                 <description>&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we&amp;#8217;ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id='overview'&gt;Overview&lt;/h2&gt;
@@ -118,9 +118,11 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;assets&lt;/strong&gt;&lt;br /&gt;This folder is not part of the standard jekyll structure. The assets folder represents &lt;em&gt;any generic&lt;/em&gt; folder you happen to create in your root directory. Directories and files not properly formatted for jekyll will be left untouched for you to serve normally.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;(read more: &lt;a href='https://github.com/mojombo/jekyll/wiki/Usage'&gt;https://github.com/mojombo/jekyll/wiki/Usage&lt;/a&gt;)&lt;/p&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;test&lt;/strong&gt; test (read more: &lt;a href='https://github.com/mojombo/jekyll/wiki/Usage'&gt;https://github.com/mojombo/jekyll/wiki/Usage&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id='jekyll_configuration'&gt;Jekyll Configuration&lt;/h3&gt;
 
@@ -330,9 +332,9 @@ tags : [how-to, jekyll]
 &lt;h2 id='next_steps'&gt;Next Steps&lt;/h2&gt;
 
 &lt;p&gt;Please take a look at &lt;a href='' /&gt; or jump right into &lt;a href=''&gt;Usage&lt;/a&gt; if you&amp;#8217;d like.&lt;/p&gt;</description>
-                <link>http://qmcr.github.com/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://qmcr.github.com/lessons/2011/12/29/jekyll-introduction</guid>
-                <pubDate>2011-12-29T00:00:00+08:00</pubDate>
+                <link>http://www.qmcr.me/macos/2013/04/16/install-jekyll-on-mac10.8</link>
+                <guid>http://www.qmcr.me/macos/2013/04/16/install-jekyll-on-mac10.8</guid>
+                <pubDate>2013-04-16T00:00:00+08:00</pubDate>
         </item>
 
 
