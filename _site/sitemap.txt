@@ -10,5 +10,3 @@ http://www.qmcr.me/product.html
 http://www.qmcr.me/rss.xml
 http://www.qmcr.me/sitemap.txt
 http://www.qmcr.me/tags.html
-
-http://www.qmcr.me/macos/2013/04/16/install-jekyll-on-mac10.8
